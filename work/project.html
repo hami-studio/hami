@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hami | Project</title>
+    <link rel="canonical" href="">
+    <meta name="description" content="">
+    <meta property="og:url" content="">
+    <meta property="og:type" content="">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <!-- <meta property="og:image:width" content=""> -->
+    <!-- <meta property="og:image:height" content=""> -->
+    <meta name="keywords" content="">
+
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="icon" type="image/svg+xml" href="../img/root/favicon.svg">
+  </head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WDDQ5B75VT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-WDDQ5B75VT');
+  </script>
+  
+  <body class="is-loading flow">
+    <header class="f-row just-sb g-24 p-2040">
+      <article class="f-row g-16">
+        <div class="work-title f-row g-16">
+          <h3 data-work-title></h3>
+          <h3 data-work-subtitle class="mono-3 ph-hide"></h3>
+        </div>
+        <a class="info" data-modal-target=".modal--work">Info</a>
+      </article>
+
+      <nav class="menu f-row g-24">
+        <a data-modal-target=".modal--menu">Index <sup></sup> </a>
+        <a href="../studio.html">Studio</a>
+        <a class="lab-link">Lab <sup>n</sup> </a>
+        <a href="../journal.html" data-journal-link>Journal <sup></sup></a>
+        <a href="mailto:hello@hami.studio?body=Hello%20Hami">Contact</a>
+      </nav>
+      
+      <div class="soon">
+        <div class="soon-text"></div>
+      </div>
+      
+
+      <button class="ph-show mobile-menu-button" type="button" name="mobile-menu" data-modal-target=".modal--menu">
+        <img src="../img/root/wheel.svg" alt="Mobile Menu">
+      </button>
+    </header>
+
+    <main class="pb-40" data-yaml="../data/work/parsi.yaml">
+      <!-- WORK GALLERY -->
+      <div class="slider">
+        <section class="work slider-track g-24"></section>
+      </div>
+
+      <!-- WORK MODAL -->
+      <div class="modal modal--work">
+        <!-- PROJECT HEADER -->
+        <div class="modal-header f-row just-sb p-20">
+          <hgroup class="work-tag">
+            <h4 data-work-tag></h4>
+          </hgroup>
+          <button type="button" name="close">
+            <img src="../img/root/close.svg" alt="Close">
+          </button>
+        </div>
+        <!-- PROJECT DESCRIPTION -->
+        <div class="f-col g-40 pv-20">
+          <!-- PROJECT META DATA -->
+          <section class="work-meta f-col g-12 pt-20"></section>
+          <!-- PROJECT BACKROUND -->
+          <article class="work-background">
+            <h5 class="ph-12 lt-3">Background</h5>
+          </article>
+          <!-- PROJECT ALIGNMENT -->
+          <article class="work-alignment">
+            <h5 class="ph-12 lt-3">Alignment</h5>
+          </article>
+          <!-- PROJECT ASSET CREDITS -->
+          <article class="work-asset-credits">
+            <h5 class="ph-12 lt-3">Credits</h5>
+            <section class="work-credit f-col pt-20"></section>
+          </article>
+
+          <footer class="ph-20">
+            <nav class="f-row just-sb">
+              <a href="#">Instagram</a>
+              <a class="copyText">hello@hami.studio</a>
+              <span>©2025 HAMI</span>
+            </nav>
+          </footer>
+        </div>
+      </div>
+
+    </main>
+    <div class="modal modal--menu f-col just-sb">
+      <div class="f-row f-top just-sb p-20">
+        <hgroup>
+          <h3>Index</h3>
+          <h3 class="mono-2">Case Studies of <br> Selected Projects</h3>
+        </hgroup>
+        <button type="button" name="close">
+          <img src="../img/root/close.svg" alt="Close">
+        </button>
+      </div>
+    
+      <menu class="f-row f-bl g-24 p-20 ph-show">
+        <a href="../index.html">Home</a>
+        <a href="../studio.html">Studio</a>
+        <a href="../journal.html">Journal</a>
+        <h4 class="mono-3">Lab</h4>
+        <a href="mailto:hello@hami.studio?body=Hello%20Hami">Contact</a>
+      </menu>
+    
+      <section class="modal-nav">
+        <hgroup class="modal-header f-row just-sb ph-20 lb-3">
+          <h5>Case</h5>
+          <h5>Sector</h5>
+        </hgroup>
+        <nav class="f-col">
+        </nav>
+      </section>
+      <div id="hover-thumb"></div>
+    </div>
+    
+  </body>
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="../scripts/main-min.js"></script>
+  
+</html>

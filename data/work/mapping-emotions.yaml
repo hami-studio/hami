@@ -1,0 +1,60 @@
+title: Mapping Emotions
+subtitle: Visualizing Emotional States
+tag: Information Design
+sector: Health & Wellbeing
+
+client: Self
+scope: Toolkit, Figma Plugin
+team: Pooja
+
+description: Mapping Emotions is a visual tool derived from a daily self-tracking practice that helps over 3K people visualize and understand complex personal feelings.
+
+keywords:
+  - mental health
+  - data visualization
+  - Figma plugin
+
+thumb: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568223/ME-thumb_j7izlk.avif
+og_image: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568223/ME-thumb_j7izlk.avif
+
+images:
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568224/ME-1_qbheus.avif
+    alt: Poster A
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568220/ME-2_sibmiy.avif
+    alt: Colours
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568221/ME-3_bzg0o0.avif
+    alt: Symbols
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568218/ME-4_zyaudu.avif
+    alt: Triggers + Emotions
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568218/ME-5_oscngy.avif
+    alt: Mapping Data
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568226/ME-6_q4qvtj.avif
+    alt: Calendar
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568225/ME-7_ildecd.avif
+    alt: Social Post
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568222/ME-8_o4mdnx.avif
+    alt: Figma Plugin
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775568219/ME-9_yuwety.avif
+    alt: Poster B
+
+background: |
+  Mapping Emotions began with a simple practice aimed at helping people better understand their emotional states. Every day, for a month, we logged our moods and the triggers behind them. Over time, what started as a structured exercise in self-tracking became something more open and intimate: an honest inquiry into our own mental space. When words weren't enough, visuals stepped in.
+
+  The visual language that emerged was not meant to categorize or define. It grew naturally from the process. It translates complex feelings and lets emotional patterns surface without losing the nuance of the original experience.
+
+  The final work lives as a series of visual maps and a free Figma template. Both are built on the same layered logic. When Stefan Sagmeister and Giorgia Lupi noticed the project, it helped more people start using it. Now, over 3,000 people worldwide use these tools to understand their emotions. That number still moves us, but more importantly, it points to something far simpler than data: a shared human need to reflect, to understand ourselves, and to feel a little less alone in the process.
+
+alignment: |
+  This project demonstrated that precise and empathetic information design can reveal hidden realities and transform personal experiences into collective understanding.
+
+  It changed our view of data visualization, showing that it is not just analytical but also a means of reflection and meaning-making, expanding the role of design.
+
+  This mindset now guides our approach to data storytelling, mental health communication, and our tools. We believe well-crafted design systems do more than organize—they can give form to the abstract, structure the emotional, and clarity to what is genuinely hard to say.
+
+asset_credits:
+  - label: Dear Data
+    value: Giorgia Lupi and Stefanie Posavec
+  - label: Mood Meter
+    value: Marc Brackett
+  - label: Figma Template
+    value: Shafie Sharin
