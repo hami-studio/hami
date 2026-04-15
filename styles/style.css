@@ -104,6 +104,13 @@ small {
   line-height: calc(0.75rem + 0.25rem);
 }
 
+sup {
+  font-size: 0.75rem;
+  vertical-align: top;
+  position: relative;
+  top: -0.5em;
+}
+
 a {
   color: #202020;
   cursor: pointer;
