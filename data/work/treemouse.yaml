@@ -26,13 +26,13 @@ images:
     alt: Team
   - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575650/TM-4_zb6gdb.avif
     alt: Wordmark Construction
-  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575650/TM-5_iutn4m.avif
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1786630136/TM-5_itvm6w.webp
     alt: Monogram
-  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575650/TM-6_bxgfda.avif
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1786630140/TM-6_lijq7n.webp
     alt: Palette & Typography
   - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575649/TM-7_pkpart.avif
     alt: Podcast Covers
-  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575651/TM-8_ijvqsu.avif
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1786630137/TM-8_nrpeoc.webp
     alt: Grid System
   - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575649/TM-9_ybj62n.avif
     alt: Presentation Deck
@@ -40,11 +40,11 @@ images:
     alt: Carousel Post
   - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575649/TM-11_ufq2mv.avif
     alt: Video Covers
-  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575650/TM-12_zgnpfw.avif
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1786630138/TM-12_irt2dz.webp
     alt: Graphical System
   - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575650/TM-13_undmen.avif
     alt: Stationary
-  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1775575653/TM-14_lh21s9.avif
+  - src: https://res.cloudinary.com/dl4nbc0zv/image/upload/v1786630141/TM-14_gxo0rr.webp
     alt: Website
 
 background: |
